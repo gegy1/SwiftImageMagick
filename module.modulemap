@@ -1,5 +1,5 @@
 module SwiftImageMagickMac [system] {
-  header "/usr/local/Cellar/imagemagick/7.0.10-54/include/ImageMagick-7/MagickWand/MagickWand.h"
+  header "/usr/local/Cellar/imagemagick/7.0.10-55/include/ImageMagick-7/MagickWand/MagickWand.h"
   link "MagickWand-7.Q16HDRI"
   link "MagickCore-7.Q16HDRI"
   export *
